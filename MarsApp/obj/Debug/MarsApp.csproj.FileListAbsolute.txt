@@ -1,0 +1,43 @@
+C:\Users\Andrei Merk\source\repos\MarsApp\MarsApp\bin\Debug\MarsApp.exe.config
+C:\Users\Andrei Merk\source\repos\MarsApp\MarsApp\bin\Debug\MarsApp.exe
+C:\Users\Andrei Merk\source\repos\MarsApp\MarsApp\bin\Debug\MarsApp.pdb
+C:\Users\Andrei Merk\source\repos\MarsApp\MarsApp\obj\Debug\MarsApp.csprojAssemblyReference.cache
+C:\Users\Andrei Merk\source\repos\MarsApp\MarsApp\obj\Debug\MarsApp.Navigation.resources
+C:\Users\Andrei Merk\source\repos\MarsApp\MarsApp\obj\Debug\MarsApp.Properties.Resources.resources
+C:\Users\Andrei Merk\source\repos\MarsApp\MarsApp\obj\Debug\MarsApp.csproj.GenerateResource.cache
+C:\Users\Andrei Merk\source\repos\MarsApp\MarsApp\obj\Debug\MarsApp.csproj.CoreCompileInputs.cache
+C:\Users\Andrei Merk\source\repos\MarsApp\MarsApp\obj\Debug\MarsApp.exe
+C:\Users\Andrei Merk\source\repos\MarsApp\MarsApp\obj\Debug\MarsApp.pdb
+C:\Users\Andrei Merk\source\repos\MarsApp\MarsApp\obj\Debug\MarsApp.Start.resources
+C:\Users\Andrei Merk\source\repos\MarsApp\MarsApp\obj\Debug\MarsApp.addConclusion.resources
+C:\Users\Andrei Merk\source\repos\MarsApp\MarsApp\obj\Debug\MarsApp.addApplicant.resources
+C:\Users\Andrei Merk\source\repos\MarsApp\MarsApp\obj\Debug\MarsApp.findApplicants.resources
+F:\Работа\Visual Studio Projects\repos\MarsApp\MarsApp\bin\Debug\MarsApp.exe.config
+F:\Работа\Visual Studio Projects\repos\MarsApp\MarsApp\bin\Debug\MarsApp.exe
+F:\Работа\Visual Studio Projects\repos\MarsApp\MarsApp\bin\Debug\MarsApp.pdb
+F:\Работа\Visual Studio Projects\repos\MarsApp\MarsApp\obj\Debug\MarsApp.csproj.AssemblyReference.cache
+F:\Работа\Visual Studio Projects\repos\MarsApp\MarsApp\obj\Debug\MarsApp.csproj.SuggestedBindingRedirects.cache
+F:\Работа\Visual Studio Projects\repos\MarsApp\MarsApp\obj\Debug\MarsApp.addConclusion.resources
+F:\Работа\Visual Studio Projects\repos\MarsApp\MarsApp\obj\Debug\MarsApp.Navigation.resources
+F:\Работа\Visual Studio Projects\repos\MarsApp\MarsApp\obj\Debug\MarsApp.addApplicant.resources
+F:\Работа\Visual Studio Projects\repos\MarsApp\MarsApp\obj\Debug\MarsApp.Properties.Resources.resources
+F:\Работа\Visual Studio Projects\repos\MarsApp\MarsApp\obj\Debug\MarsApp.findApplicants.resources
+F:\Работа\Visual Studio Projects\repos\MarsApp\MarsApp\obj\Debug\MarsApp.Start.resources
+F:\Работа\Visual Studio Projects\repos\MarsApp\MarsApp\obj\Debug\MarsApp.csproj.GenerateResource.cache
+F:\Работа\Visual Studio Projects\repos\MarsApp\MarsApp\obj\Debug\MarsApp.csproj.CoreCompileInputs.cache
+F:\Работа\Visual Studio Projects\repos\MarsApp\MarsApp\obj\Debug\MarsApp.exe
+F:\Работа\Visual Studio Projects\repos\MarsApp\MarsApp\obj\Debug\MarsApp.pdb
+C:\Users\Steel\Documents\GitHub\Mars\MarsApp\bin\Debug\MarsApp.exe.config
+C:\Users\Steel\Documents\GitHub\Mars\MarsApp\bin\Debug\MarsApp.exe
+C:\Users\Steel\Documents\GitHub\Mars\MarsApp\bin\Debug\MarsApp.pdb
+C:\Users\Steel\Documents\GitHub\Mars\MarsApp\obj\Debug\MarsApp.csproj.AssemblyReference.cache
+C:\Users\Steel\Documents\GitHub\Mars\MarsApp\obj\Debug\MarsApp.addConclusion.resources
+C:\Users\Steel\Documents\GitHub\Mars\MarsApp\obj\Debug\MarsApp.Navigation.resources
+C:\Users\Steel\Documents\GitHub\Mars\MarsApp\obj\Debug\MarsApp.addApplicant.resources
+C:\Users\Steel\Documents\GitHub\Mars\MarsApp\obj\Debug\MarsApp.Properties.Resources.resources
+C:\Users\Steel\Documents\GitHub\Mars\MarsApp\obj\Debug\MarsApp.findApplicants.resources
+C:\Users\Steel\Documents\GitHub\Mars\MarsApp\obj\Debug\MarsApp.Start.resources
+C:\Users\Steel\Documents\GitHub\Mars\MarsApp\obj\Debug\MarsApp.csproj.GenerateResource.cache
+C:\Users\Steel\Documents\GitHub\Mars\MarsApp\obj\Debug\MarsApp.csproj.CoreCompileInputs.cache
+C:\Users\Steel\Documents\GitHub\Mars\MarsApp\obj\Debug\MarsApp.exe
+C:\Users\Steel\Documents\GitHub\Mars\MarsApp\obj\Debug\MarsApp.pdb
